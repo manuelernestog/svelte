@@ -2,6 +2,7 @@
 	<picture>
 		<source media="(prefers-color-scheme: dark)" srcset="assets/banner_dark.png">
 		<img src="assets/banner.png" alt="Svelte - web development for the rest of us" />
+		123
 	</picture>
 </a>
 
